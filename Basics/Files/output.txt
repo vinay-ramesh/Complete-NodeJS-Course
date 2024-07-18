@@ -1,0 +1,3 @@
+Content from input file is: This is the sample text file which we are going to read using NodeJs
+  
+Created at Fri Jun 21 2024 16:43:29 GMT+0530 (India Standard Time)
